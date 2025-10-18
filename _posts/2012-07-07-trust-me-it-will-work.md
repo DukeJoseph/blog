@@ -1,23 +1,41 @@
 ---
 date: 2018-03-12 12:26:40
 layout: post
-title: On Pain and The Forest Passage
-subtitle: Ernst Juenger -the mind and influence of a German Titan.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: The Watch that Ends the Night
+subtitle: the great step forward in Canadian writing
+description: An exploration of courage and purpose in a new world.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme1_eoyjtl.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme1_eoyjtl.jpg
 category: 'tips'
 tags:
-  - languages
-  - tips
-author: mranderson
+  - Canada
+  - novels
+author: me
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+"An important "
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+For many Canadians, Hugh Maclennan is the name that appears in parentheses after the title "Courage", a song from the Canadian Rock Band The Tragically Hip. Maclennan was an early, even the first, Canadian novelist. Today, however, his books are out-of-print. I dug up my copies at MacLeod's Books, a used bookstore on Hastings Street in Vancouver. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+While some of the themes of the Canadian Identity may not resonate today as they did then, this novel explores the themes of courage and meaning in a time when people were trying to understand what world they lived in, what it meant to be a human and a Canadian in this new dangerous time.
+
+> There are some stories into which the reader should be led gently, and I think this may be one of them.
+
+This book explores the meaning of life in a new era where traditional moralities have been placed side-by-side with modern ones; the example provided by Jesus seems to stand next to the reality of a world where the nuclear bomb threatens all existence. 
+
+> There are some stories into which the reader should be led gently, and I think this may be one of them.
+
+Perhaps most interesting was the duality of the two central male characters, George and Jerome, two men whose behaviour under pressure varies, but whose humanity show that there is no single way to be a man (or a mensch). Jerome seems almost a force of nature: athletic, decisive, powerful, and righteous. George is timid yet thoughtful and reflective. He is a counter-balance to the aesthetic of Jerome. 
+
+> There are some stories into which the reader should be led gently, and I think this may be one of them.
+> There are some stories into which the reader should be led gently, and I think this may be one of them.
+
+The edition of the book I picked up is a 1960 first printing, and it looks like it's had a few owners. Someone who read this book marked up the section of the book that Gord Downie riffed on in the song "Courage (for Hugh Maclennan):
+
+> There is no simple explanation for anything imporant any of us do, and that the human tragedy, or the human irony, consists in the necessity of living with the consequences of actions performed under the pressure of compulsions so obscure we do not and cannot understand them.
+
+I can't tell if this was done before or after the song was written, almost as much time has passed between the publication of the book as has passed since the song came out!
+
 
 ## Inline HTML elements
 
