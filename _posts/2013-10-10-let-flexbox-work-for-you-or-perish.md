@@ -4,8 +4,8 @@ layout: post
 title: 5 Years of Learning Catalan
 subtitle: How I learned Catalan.
 description: exploring the tools available and effective approaches to language acquisition.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
+image: /assets/img/Estelada_blava.svg.png
+optimized_image: /assets/img/Estelada_blava.svg.png/c_scale,w_380/
 category: languages
 tags:
   - css
@@ -13,9 +13,27 @@ tags:
 author: mranderson
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Over the last 5 years, I've become a strong user of Catalan. I can read it quite easily, my listening is quite good (depending on the topic of the content), and I speak it 2 to 3 times a month. Admittedly, it's not the first language I've learned to a high level (I have good command of German and manage French quite well - I've also studied Spanish, Korean, and am currently learning Russian as well). In addition to a planned trip to Barcelona, I wanted to see how well I could do learning Catalan by optimising the use of the language over the traditional 'study'. As quickly as possible, I wanted to focus on how much I USED Catalan over how much I STUDIED it. This blog post will cover that.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+Where I started
+
+While I knew NOTHING about the Catalan language itself, my knowledge of French and Spanish Grammar was very strong. I understand the tenses and how sentences are structured. This reduces a lot of the mental confusion when learning ANY new foreign language. Between those two languages, there is a lot of lexical and grammatical crossover. Arguably, you're half way towards your goal of being able to use the language if you have previously acquired one of these langauges.
+
+Furthermore, having learned French and German to the level I have, and as an EFL teacher, having watched many students struggle to reach fluency as quickly as they want, I know where most people get tripped up and can avoid those pitfalls. Those pitfalls tend to be not using the past tenses when necessary and not using reading/listening material to reinforce grammatical structures and lexical items; you want to build the HABIT of using the word - knowing the rule or the word alone will make the process slow. Briefly addressing past tenses, when I've taught intermediate and advanced classes, I was stunned at how many students simply didn't use the past tense when speaking (ie 'Yesterday I watch a movie'). I know they knew the grammar, but as I would tell them, "Your brain knows it but your mouth doesn't." So from day one with Catalan, I was giving both the present and past tenses their due attention. Past simple, present simple, and past continuous make up 80% of the verbs you use, so those three are a great thing to focus on.
+
+I used DuoLingo (in the Spanish version) to get started with basic words, but after a few months, I started reading and listening. I found the podcasts "L'ofici de viure" (life and wellbeing) and "Crims" (true crime) for listening. This builds exposure to the vocabulary and grammar of Catalan as well as the sound! From the beginning, I was able to understand probably around 20% of what was discussed. This is where a lot of my students would get stuck. They would claim they didn't understand enough and quickly give up. Their 'tolerance for ambiguity' was low. But, if you stick with it, that 20% easily becomes 50% or even 80% after three weeks. So I stuck with it.
+
+I found newspaper articles on topics like climate and business to read. It's useful to find topics you know about and are comfortable reading. Part of the problem my students had is that they didn't really read the news in their language. As a teacher, my students could expect to read the news three times a week (at least) at the beginning of class. Buiding the right habits is more important than having the knowledge. There is no point in them knowing they should read more if they don't actually do it.
+
+After about four months, I had built up a strong familiarity with the Catalan language. I couldn't understand everything, but that was never the goal. The goal was to simply look back every few weeks and realise how far I'd come.
+
+And I'd come very far. 
+
+The next step was to start speaking to someone.
+
+To be continued...
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
