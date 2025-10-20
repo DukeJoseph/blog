@@ -23,6 +23,11 @@ I read a lot of books and often find myself with plenty to talk about but no-one
 
 I suppose I'm finishing the liberal arts education I began in my 20s. I received a degree in 2004 from the University of British Columbia, a double major in Modern European Studies and German Studies, and any extra space I had in my timetable were given to Canadian Literature. I definitely continue to read a lot of fiction and non-fiction in those three areas, but have also used the last few years to make myself more literate in STEM and politics. 
 
+The blog posts may be updated from time to time without note. I typically don't finish a book or movie with a complete idea about what I have to say, usually just the themes and feelings I'd like to explore. Part of my process is the slow reflection on the book and its themes. I don't like to be too cavalier with my opinions, so extra reflection may lead me to update the articles from time to time.
+
+AI is only used sparingly to learn more about the author or avoid any major oversight about the work itself.
+
+
 ## Film
 
 I don't write too much on films, unless I feel I have something of particular value to say about it, or it's a film that has a minimal digital footprint (ie there isn't much available online about it - it's been overlooked by content creators).
