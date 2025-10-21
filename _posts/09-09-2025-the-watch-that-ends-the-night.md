@@ -25,7 +25,11 @@ This book explores the meaning of life in a new era where traditional moralities
 
 > There are some stories into which the reader should be led gently, and I think this may be one of them.
 
-Perhaps most interesting was the duality of the two central male characters, George and Jerome, two men whose behaviour under pressure varies, but whose humanity show that there is no single way to be a man (or a mensch). Jerome seems almost a force of nature: athletic, decisive, powerful, and righteous. George is timid yet thoughtful and reflective. He is a counter-balance to the aesthetic of Jerome. 
+Perhaps most interesting was the duality of the two central male characters, George and Jerome, two men whose behaviour under pressure varies, but whose humanity show that there is no single way to be a man (or a mensch). Jerome seems almost a force of nature: athletic, decisive, powerful, and righteous. George is timid yet thoughtful and reflective. He is a counter-balance to the aesthetic of Jerome. The younger version of me would have been enamoured with Jerome and frustrated with George; mature me understands that there are times when I've acted like Jerome and times when I've acted like George. Sometimes the moments we act like him, the outcomes aren't always what we'd hoped for, and when we act like George sometimes the outcomes are better than we could have hoped for. The book makes it clear that Jerome's life is not some ideal to move towards; it creates an interesting binary of how we move forward in life: sometimes brashly, sometimes thoughtfully.
+
+The book also makes it clear that Jerome's story is by no means a result of some ethos he has. Jerome is thrown into the pressure cooker from a young age. He's not some Ayn-Randi-ian archetype who is the complete intellectual master of his destiny. Jerome became Jerome in the crucible of the pre-war Canadian identity as a land of resources being exploited. He escaped the dangers of that environment not by sheer will to become a great man, but by the sheer necessity to survive. He was forged, not self-made. And in the novel, there are moments where his sense of duty seems misplaced (leaving his wife and child to go serve in the Spanish Civil War during which he disappears and is presumed dead).
+
+It's also worth mentioning that Jerome was partially inspired by the Canadian thoracic surgeon and advocate for socialised medicine, Norman Bethune. I say 'partially' because Bethune's background is notably different from that of Jerome. 
 
 > There are some stories into which the reader should be led gently, and I think this may be one of them.
 > There are some stories into which the reader should be led gently, and I think this may be one of them.
@@ -35,6 +39,11 @@ The edition of the book I picked up is a 1960 first printing, and it looks like 
 > There is no simple explanation for anything imporant any of us do, and that the human tragedy, or the human irony, consists in the necessity of living with the consequences of actions performed under the pressure of compulsions so obscure we do not and cannot understand them.
 
 I can't tell if this was done before or after the song was written, almost as much time has passed between the publication of the book as has passed since the song came out!
+
+New Canada. New World. New Morality.
+
+> There are some stories into which the reader should be led gently, and I think this may be one of them.
+
 
 
 ## Inline HTML elements
